@@ -249,3 +249,11 @@
 	<string>
 	<bits/stdc++.h>
 
+1485323922 source:e:\myprojects\dxball_3d\dxball_3d\main.cpp
+	<GL/glut.h>
+	<stdlib.h>
+	<stdio.h>
+	<vector>
+	<string>
+	<bits/stdc++.h>
+
